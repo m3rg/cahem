@@ -1,0 +1,11 @@
+{
+"MailHost": "",
+"MailPort": "587",
+"MailFrom": "",
+"MailFromText": "",
+"MailPass": "",
+"MailTo": ["mail@example.com"],
+"MailSubject": "ÇAHEM Kursları",
+"Url": "http://cahem.meb.k12.tr/icerikler/acilacak-olan-kurslarimiz-guncel_3578080.html",
+"JobTime": "18:00"
+}
