@@ -4,7 +4,7 @@ cahem tracks the changes of a local course web site and emails the course list i
 
 URL: http://cahem.meb.k12.tr/icerikler/acilacak-olan-kurslarimiz-guncel_3578080.html
 
-#### Sample Config
+#### Example Config (config.json)
 ```
 {
 "MailHost": "",
